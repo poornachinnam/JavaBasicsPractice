@@ -1,0 +1,125 @@
+JAVA BASICS TO COVER When you start to revise in Future
+-----------------------------------------------------------
+1> Naming conventions or Syntax
+  * Class name starts with Capital, Package name ... etc
+
+2> Data Types
+  * Primitive vs Non Primitive
+  * Types 
+  * Wrapper classes
+  * D/F int and Integer 
+
+3> Operators in java
+
+4> OOPS
+  * Classes
+  * Methods
+  * Constructors and types of constructors
+  * Object and storing in java
+  * Inheritance
+  * Polymorphism
+  * Abstarction
+  * Encapsulation
+  
+5> Enum, Interface, Abstrarction
+
+6> Array and types
+
+7> Collections
+  * List
+  * Set
+  * Map  
+
+8> Conditional Statements
+  * if
+  * nested if
+  * if else
+  * if else if
+  * Switch
+  * Break 
+  * Continue
+  
+9> Loop Statemets
+  * For loop
+  * For each
+  * While
+  * do while
+
+10> Access Modifiers
+  * Public
+  * Private
+  * Protected
+  * Default
+
+11> String class 
+  * String buffer
+  * String builder
+
+12> Keywords
+  * static
+  * this
+  * super
+  * Final
+  * static
+  * throw
+  * throws
+  
+13> Exception Handling
+  * Error and Exception
+  * Try and catch
+  * Try catch and finally
+  * Multiple try
+  
+14> Wrapper classes
+
+15> File Handling in java
+   * Read Excel sheets
+   * Read .csv   
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
